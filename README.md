@@ -5,8 +5,7 @@ A modern and visually appealing landing page inspired by Webflow's design princi
 ---
 
 ## 🚀 Live Demo
-
-Coming Soon (GitHub Pages)
+https://chandrimabarua.github.io/webflow-landing-page/
 
 ---
 
