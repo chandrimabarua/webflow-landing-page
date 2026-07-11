@@ -9,13 +9,6 @@ https://chandrimabarua.github.io/webflow-landing-page/
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of the homepage here.
-
-```md
-![Project Preview](images/preview.png)
-```
 
 ---
 
